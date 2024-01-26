@@ -1,13 +1,18 @@
 // Voxel Space (Comanche Terrain Rendering) - inspired by Pikuma (thanks!)
 // ========================================
-
+//
+// Joseph21
+// January 26, 2024
+//
 // Youtube: https://youtu.be/bQBY9BM9g_Y
 // demo version (can be bugged, no guarantees,...)
 //
-// Have fun with it!
-// Joseph21
+// The core of Pikuma's code for comanche style terrain rendering is ported to render on the PixelGameEngine,
+// (PGE for short), created by OneLoneCoder (aka Javidx9 / David Barr - Thank you!)
 //
-// January 26, 2024
+// Shout out to Games28 who brought the Pikuma video to my attention <3
+//
+// Have fun with this code!
 
 #define OLC_PGE_APPLICATION
 #include "olcPixelGameEngine.h"
